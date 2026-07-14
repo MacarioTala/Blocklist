@@ -2,7 +2,6 @@
 ! Meta / Facebook / Instagram
 ! Apex domains and every subdomain are rewritten to 0.0.0.0.
 ! ============================================================
-
 ||facebook.com^$dnsrewrite=NOERROR;A;0.0.0.0
 ||facebook.net^$dnsrewrite=NOERROR;A;0.0.0.0
 ||fb.com^$dnsrewrite=NOERROR;A;0.0.0.0
@@ -21,13 +20,11 @@
 ||meta.ai^$dnsrewrite=NOERROR;A;0.0.0.0
 ||metacareers.com^$dnsrewrite=NOERROR;A;0.0.0.0
 ||messenger.com^$dnsrewrite=NOERROR;A;0.0.0.0
-
 ! ============================================================
 ! Amazon retail domains by country/region
 ! Apex domains and every subdomain are rewritten to 0.0.0.0.
 ! This section does not intentionally block AWS domains.
 ! ============================================================
-
 ||amazon.com^$dnsrewrite=NOERROR;A;0.0.0.0
 ||amazon.ca^$dnsrewrite=NOERROR;A;0.0.0.0
 ||amazon.com.mx^$dnsrewrite=NOERROR;A;0.0.0.0
@@ -52,7 +49,6 @@
 ||amazon.com.tr^$dnsrewrite=NOERROR;A;0.0.0.0
 ||amazon.eg^$dnsrewrite=NOERROR;A;0.0.0.0
 ||amazon.co.za^$dnsrewrite=NOERROR;A;0.0.0.0
-
 ! Common Amazon retail/static-content domains
 ||amazonusercontent.com^$dnsrewrite=NOERROR;A;0.0.0.0
 ||amazon-adsystem.com^$dnsrewrite=NOERROR;A;0.0.0.0
