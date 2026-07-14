@@ -59,3 +59,35 @@
 ||media-amazon.com^$dnsrewrite=NOERROR;A;0.0.0.0
 ||ssl-images-amazon.com^$dnsrewrite=NOERROR;A;0.0.0.0
 ||images-amazon.com^$dnsrewrite=NOERROR;A;0.0.0.0
+! ============================================================
+! TikTok / ByteDance
+! ============================================================
+||tiktok.com^
+||tiktokcdn.com^
+||tiktokcdn-us.com^
+||tiktokcdn-in.com^
+||tiktokv.com^
+||tiktokd.org^
+||musical.ly^
+||bytedance.com^
+||bytedance.net^
+||bytedanceapi.com^
+||bytedns.net^
+||byteoversea.com^
+||byteoversea.net^
+||ibytedtos.com^
+||ibyteimg.com^
+||byteimg.com^
+||snssdk.com^
+||isnssdk.com^
+||sgsnssdk.com^
+||pstatp.com^
+||ipstatp.com^
+||sgpstatp.com^
+||hypstarcdn.com^
+||muscdn.com^
+||ttlivecdn.com^
+||tlivecdn.com^
+||ttlstatic.com^
+||ttwstatic.com^
+||bytedapm.com^
